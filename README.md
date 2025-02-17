@@ -104,6 +104,6 @@ Observe the map settings </br>
 Observe the map</br>
 
 
-Based on a tutorial by Josh Madakor, some steps are original, some are modified and explained according to my understanding of the topic.
+*Based on a tutorial by Josh Madakor, some steps are original, some are modified and explained according to my understanding of the topic.
 
 
